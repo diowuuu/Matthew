@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display JSON from localStorage</title>
+</head>
+
+<body>
+    <div id="output"></div>
+    <script>
+        // Sample JSON data
+        const jsonData = [
+            { id: 1, name: "Record 1" },
+            { id: 2, name: "Record 2" },
+            { id: 3, name: "Record 3" }
+        ];
+        // Store the JSON data in localStorage
+        localStorage.setItem('dbRecords', JSON.stringify(jsonData));
+
+        // Retrieve the data from localStorage
+        const storedData = localStorage.getItem('dbRecords');
+        const parsedData = JSON.parse(storedData);
+
+        const outputDiv = document.getElementById('output');
+        parsedData.forEach(record => {
+            const p = document.createElement('p');
+            p.textContent = `ID: ${record.id}, Name: ${record.name}`;
+            outputDiv.appendChild(p);
+        });
+    </script>
+</body>
+
+</html>
