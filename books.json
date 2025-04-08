@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Python Advanced Programming",
+        "author": "Guido van Rossum",
+        "description": "This book dives into Python's advanced features like decorators, metaclasses, and asynchronous programming. It helps developers master Python's core concepts for building complex applications.",
+        "price": 39.99,
+        "publisher": "Python Press"
+    },
+    {
+        "title": "JavaScript Mastery",
+        "author": "Douglas Crockford",
+        "description": "Explore JavaScript's best practices, design patterns, and modern ES6+ features. Ideal for front-end developers aiming to build robust web applications.",
+        "price": 44.99,
+        "publisher": "Web Tech Pub"
+    },
+    {
+        "title": "Clean Architecture",
+        "author": "Robert C. Martin",
+        "description": "Learn software architecture principles to create scalable, maintainable systems. Covers separation of concerns, use cases, and infrastructure handling.",
+        "price": 42.99,
+        "publisher": "Software Arch Inc"
+    },
+    {
+        "title": "Database Design Essentials",
+        "author": "C. J. Date",
+        "description": "A comprehensive guide to database design, covering relational models, normalization, and query optimization. Perfect for database administrators and developers.",
+        "price": 37.99,
+        "publisher": "DB Tech Press"
+    },
+    {
+        "title": "Web Development Fundamentals",
+        "author": "Eric A. Meyer",
+        "description": "Master HTML, CSS, and JavaScript basics. Includes practical examples for building responsive websites and interactive UIs from scratch.",
+        "price": 34.99,
+        "publisher": "Web Dev Pub"
+    },
+    {
+        "title": "Algorithms and Data Structures",
+        "author": "CLRS Authors",
+        "description": "Dive into algorithms like sorting, searching, and graph traversal. Understand data structures such as arrays, lists, and trees for efficient coding.",
+        "price": 49.99,
+        "publisher": "Algorithm Press"
+    },
+    {
+        "title": "Linux System Programming",
+        "author": "Robert Love",
+        "description": "Learn Linux system calls, process management, and file I/O. Essential for developers working on Linux-based applications and system tools.",
+        "price": 38.99,
+        "publisher": "Linux Tech Inc"
+    },
+    {
+        "title": "Cloud Computing Basics",
+        "author": "Thomas A. Limoncelli",
+        "description": "Explore cloud platforms like AWS, Azure, and Google Cloud. Covers virtualization, cloud storage, and deployment strategies for scalable apps.",
+        "price": 41.99,
+        "publisher": "Cloud Tech Pub"
+    },
+    {
+        "title": "Version Control with Git",
+        "author": "Scott Chacon",
+        "description": "Master Git for version control. Learn branching, merging, commit strategies, and collaboration workflows for software projects.",
+        "price": 32.99,
+        "publisher": "Git Press"
+    },
+    {
+        "title": "Computer Network Essentials",
+        "author": "Andrew S. Tanenbaum",
+        "description": "Understand network layers, protocols (TCP/IP, HTTP), and network security. A must-read for network engineers and developers.",
+        "price": 36.99,
+        "publisher": "Network Tech Inc"
+    }
+]    

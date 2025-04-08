@@ -1,0 +1,70 @@
+{
+    "collectionName": "Must-Read Computer Books",
+    "publisher": "Tech Publications",
+    "yearPublished": 2023,
+    "location": "Digital Library",
+    "available": true,
+    "books": [
+      {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "pages": 464,
+        "topics": [
+          "Software Development",
+          "Code Quality",
+          "Best Practices"
+        ]
+      },
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt, David Thomas",
+        "pages": 352,
+        "topics": [
+          "Programming Techniques",
+          "Career Growth",
+          "Software Engineering"
+        ]
+      },
+      {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "pages": 600,
+        "topics": [
+          "Distributed Systems",
+          "Database Design",
+          "Scalability"
+        ]
+      },
+      {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "pages": 1312,
+        "topics": [
+          "Algorithms",
+          "Computer Science",
+          "Problem Solving"
+        ]
+      },
+      {
+        "title": "Structure and Interpretation of Computer Programs (SICP)",
+        "author": "Harold Abelson, Gerald Jay Sussman",
+        "pages": 657,
+        "topics": [
+          "Functional Programming",
+          "Lisp",
+          "Computer Science Fundamentals"
+        ]
+      },
+      {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "author": "Stuart Russell, Peter Norvig",
+        "pages": 1136,
+        "topics": [
+          "AI",
+          "Machine Learning",
+          "Problem Solving"
+        ]
+      }
+    ]
+  }
+ 
